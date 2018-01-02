@@ -17,7 +17,7 @@ mongodb-cluster-migration项目用于在不同MongoDB Cluster（或者MongoDB实
 
 
 ### 运行环境
-Python 3.5 +  
+Python 3.5 +
 MongoDB 3.0 +
 
 
@@ -33,5 +33,5 @@ MongoDB 3.0 +
 2. /status/<db> 查看db的迁移任务的执行进度，为0-100的整数，代表进度的百分比，100代表任务完成
 
 ### 参考资料
-http://api.mongodb.com/python/current/examples/tailable.html
+http://api.mongodb.com/python/current/examples/tailable.html  
 https://docs.mongodb.com/manual/
