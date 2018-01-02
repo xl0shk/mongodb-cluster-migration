@@ -1,0 +1,8 @@
+.settings
+.project
+.pydevproject
+venv
+*.pyc
+dist
+.idea
+.DS_Store
